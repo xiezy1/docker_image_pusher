@@ -1,5 +1,5 @@
-dpanel/dpanel:latest
-dpanel/dpanel:lite
-whyour/qinglong:latest
-jellyfin/jellyfin:latest
-deluan/navidrome:latest
+--platform=linux/arm64 dpanel/dpanel:latest
+--platform=linux/arm64 dpanel/dpanel:lite
+--platform=linux/arm64 whyour/qinglong:latest
+--platform=linux/arm64 jellyfin/jellyfin:latest
+--platform=linux/arm64 deluan/navidrome:latest
